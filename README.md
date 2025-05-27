@@ -82,6 +82,16 @@
 
  ---
 
+### Решение 2 - 3
+
+![Скриншот 4](https://github.com/noisy441/hw-03-zabbix/blob/main/img/img4.png)`
+
+![Скриншот 5](https://github.com/noisy441/hw-03-zabbix/blob/main/img/img5.png)`
+
+![Скриншот 6](https://github.com/noisy441/hw-03-zabbix/blob/main/img/img6.png)`
+
+---
+
 ### Задание 4
 Создайте свой кастомный дашборд.
 
@@ -94,6 +104,13 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
  ---
+### Решение 2 - 3
+
+![Скриншот 7](https://github.com/noisy441/hw-03-zabbix/blob/main/img/img7.png)`
+
+![Скриншот 8](https://github.com/noisy441/hw-03-zabbix/blob/main/img/img8.png)`
+
+---
 
 ### Задание 5* со звёздочкой
 Создайте карту и расположите на ней два своих хоста.
